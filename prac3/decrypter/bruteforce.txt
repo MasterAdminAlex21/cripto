@@ -1,0 +1,636 @@
+invalfa=1
+invbeta=0: kadhdhfkedfmqrehdvsymrfhryfzuvekarunmmqrehdvss
+
+invbeta=1: lbeieiglfegnrsfiewtznsgiszgavwflbsvonnrsfiewtt
+
+invbeta=2: mcfjfjhmgfhostgjfxuaothjtahbwxgmctwpoostgjfxuu
+
+invbeta=3: ndgkgkinhgiptuhkgyvbpuikubicxyhnduxqpptuhkgyvv
+
+invbeta=4: oehlhljoihjquvilhzwcqvjlvcjdyzioevyrqquvilhzww
+
+invbeta=5: pfimimkpjikrvwjmiaxdrwkmwdkezajpfwzsrrvwjmiaxx
+
+invbeta=6: qgjnjnlqkjlswxknjbyesxlnxelfabkqgxatsswxknjbyy
+
+invbeta=7: rhkokomrlkmtxylokczftymoyfmgbclrhybuttxylokczz
+
+invbeta=8: silplpnsmlnuyzmpldaguznpzgnhcdmsizcvuuyzmpldaa
+
+invbeta=9: tjmqmqotnmovzanqmebhvaoqahoidentjadwvvzanqmebb
+
+invbeta=10: uknrnrpuonpwabornfciwbprbipjefoukbexwwabornfcc
+
+invbeta=11: vlososqvpoqxbcpsogdjxcqscjqkfgpvlcfyxxbcpsogdd
+
+invbeta=12: wmptptrwqprycdqtphekydrtdkrlghqwmdgzyycdqtphee
+
+invbeta=13: xnququsxrqszderuqiflzesuelsmhirxnehazzderuqiff
+
+invbeta=14: yorvrvtysrtaefsvrjgmaftvfmtnijsyofibaaefsvrjgg
+
+invbeta=15: zpswswuztsubfgtwskhnbguwgnuojktzpgjcbbfgtwskhh
+
+invbeta=16: aqtxtxvautvcghuxtliochvxhovpkluaqhkdccghuxtlii
+
+invbeta=17: bruyuywbvuwdhivyumjpdiwyipwqlmvbrileddhivyumjj
+
+invbeta=18: csvzvzxcwvxeijwzvnkqejxzjqxrmnwcsjmfeeijwzvnkk
+
+invbeta=19: dtwawaydxwyfjkxawolrfkyakrysnoxdtkngffjkxawoll
+
+invbeta=20: euxbxbzeyxzgklybxpmsglzblsztopyeulohggklybxpmm
+
+invbeta=21: fvycycafzyahlmzcyqnthmacmtaupqzfvmpihhlmzcyqnn
+
+invbeta=22: gwzdzdbgazbimnadzrouinbdnubvqragwnqjiimnadzroo
+
+invbeta=23: hxaeaechbacjnobeaspvjoceovcwrsbhxorkjjnobeaspp
+
+invbeta=24: iybfbfdicbdkopcfbtqwkpdfpwdxstciypslkkopcfbtqq
+
+invbeta=25: jzcgcgejdcelpqdgcurxlqegqxeytudjzqtmllpqdgcurr
+
+invalfa=3
+invbeta=0: eajvjvpemjpkwzmvjlcukzpvzupxilmeazinkkwzmvjlcc
+
+invbeta=1: hdmymyshpmsnzcpymofxncsycxsalophdclqnnzcpymoff
+
+invbeta=2: kgpbpbvkspvqcfsbpriaqfvbfavdorskgfotqqcfsbprii
+
+invbeta=3: njseseynvsytfivesuldtiyeidygruvnjirwttfivesull
+
+invbeta=4: qmvhvhbqyvbwilyhvxogwlbhlgbjuxyqmluzwwilyhvxoo
+
+invbeta=5: tpykyketbyezlobkyarjzoekojemxabtpoxczzlobkyarr
+
+invbeta=6: wsbnbnhwebhcorenbdumcrhnrmhpadewsrafccorenbduu
+
+invbeta=7: zveqeqkzhekfruhqegxpfukqupksdghzvudiffruhqegxx
+
+invbeta=8: cyhthtnckhniuxkthjasixntxsnvgjkcyxgliiuxkthjaa
+
+invbeta=9: fbkwkwqfnkqlxanwkmdvlaqwavqyjmnfbajollxanwkmdd
+
+invbeta=10: ienznztiqntoadqznpgyodtzdytbmpqiedmrooadqznpgg
+
+invbeta=11: lhqcqcwltqwrdgtcqsjbrgwcgbwepstlhgpurrdgtcqsjj
+
+invbeta=12: oktftfzowtzugjwftvmeujzfjezhsvwokjsxuugjwftvmm
+
+invbeta=13: rnwiwicrzwcxjmziwyphxmcimhckvyzrnmvaxxjmziwypp
+
+invbeta=14: uqzlzlfuczfampclzbskapflpkfnybcuqpydaampclzbss
+
+invbeta=15: xtcocoixfcidpsfocevndsiosniqbefxtsbgddpsfocevv
+
+invbeta=16: awfrfrlaiflgsvirfhyqgvlrvqltehiawvejggsvirfhyy
+
+invbeta=17: dziuiuodliojvyluikbtjyouytowhkldzyhmjjvyluikbb
+
+invbeta=18: gclxlxrgolrmyboxlnewmbrxbwrzknogcbkpmmyboxlnee
+
+invbeta=19: jfoaoaujroupberaoqhzpeuaezucnqrjfensppberaoqhh
+
+invbeta=20: mirdrdxmurxsehudrtkcshxdhcxfqtumihqvssehudrtkk
+
+invbeta=21: plugugapxuavhkxguwnfvkagkfaitwxplktyvvhkxguwnn
+
+invbeta=22: soxjxjdsaxdyknajxzqiyndjnidlwzasonwbyyknajxzqq
+
+invbeta=23: vramamgvdagbnqdmactlbqgmqlgozcdvrqzebbnqdmactt
+
+invbeta=24: yudpdpjygdjeqtgpdfwoetjptojrcfgyutcheeqtgpdfww
+
+invbeta=25: bxgsgsmbjgmhtwjsgizrhwmswrmufijbxwfkhhtwjsgizz
+
+invalfa=5
+invbeta=0: yapjpjzyupzichujpbmqihzjhqzvwbuyahwniichujpbmm
+
+invbeta=1: dfuouoedzuenhmzougrvnmeomveabgzdfmbsnnhmzougrr
+
+invbeta=2: ikztztjiezjsmretzlwasrjtrajfgleikrgxssmretzlww
+
+invbeta=3: npeyeyonjeoxrwjyeqbfxwoywfoklqjnpwlcxxrwjyeqbb
+
+invbeta=4: sujdjdtsojtcwbodjvgkcbtdbktpqvosubqhccwbodjvgg
+
+invbeta=5: xzoioiyxtoyhbgtioalphgyigpyuvatxzgvmhhbgtioall
+
+invbeta=6: cetntndcytdmglyntfqumldnludzafycelarmmglyntfqq
+
+invbeta=7: hjysysihdyirlqdsykvzrqisqziefkdhjqfwrrlqdsykvv
+
+invbeta=8: modxdxnmidnwqvixdpaewvnxvenjkpimovkbwwqvixdpaa
+
+invbeta=9: rticicsrnisbvanciufjbascajsopunrtapgbbvanciuff
+
+invbeta=10: wynhnhxwsnxgafshnzkogfxhfoxtuzswyfulggafshnzkk
+
+invbeta=11: bdsmsmcbxsclfkxmseptlkcmktcyzexbdkzqllfkxmsepp
+
+invbeta=12: gixrxrhgcxhqkpcrxjuyqphrpyhdejcgipevqqkpcrxjuu
+
+invbeta=13: lncwcwmlhcmvpuhwcozdvumwudmijohlnujavvpuhwcozz
+
+invbeta=14: qshbhbrqmhrauzmbhteiazrbzirnotmqszofaauzmbhtee
+
+invbeta=15: vxmgmgwvrmwfzergmyjnfewgenwstyrvxetkffzergmyjj
+
+invbeta=16: acrlrlbawrbkejwlrdoskjbljsbxydwacjypkkejwlrdoo
+
+invbeta=17: fhwqwqgfbwgpjobqwitxpogqoxgcdibfhoduppjobqwitt
+
+invbeta=18: kmbvbvlkgbluotgvbnycutlvtclhingkmtizuuotgvbnyy
+
+invbeta=19: prgagaqplgqztylagsdhzyqayhqmnslprynezztylagsdd
+
+invbeta=20: uwlflfvuqlveydqflximedvfdmvrsxquwdsjeeydqflxii
+
+invbeta=21: zbqkqkazvqajdivkqcnrjiakirawxcvzbixojjdivkqcnn
+
+invbeta=22: egvpvpfeavfoinapvhswonfpnwfbchaegnctooinapvhss
+
+invbeta=23: jlauaukjfaktnsfuamxbtskusbkghmfjlshyttnsfuamxx
+
+invbeta=24: oqfzfzpokfpysxkzfrcgyxpzxgplmrkoqxmdyysxkzfrcc
+
+invbeta=25: tvkekeutpkudxcpekwhldcuecluqrwptvcriddxcpekwhh
+
+invalfa=7
+invbeta=0: savxvxjscvjgipcxvrwmgpjxpmjtkrcsapknggipcxvrww
+
+invbeta=1: zhceceqzjcqnpwjecydtnwqewtqaryjzhwrunnpwjecydd
+
+invbeta=2: gojljlxgqjxuwdqljfkaudxldaxhyfqgodybuuwdqljfkk
+
+invbeta=3: nvqsqsenxqebdkxsqmrhbkeskheofmxnvkfibbdkxsqmrr
+
+invbeta=4: ucxzxzluexlikrezxtyoirlzrolvmteucrmpiikrezxtyy
+
+invbeta=5: bjegegsblesprylgeafvpysgyvsctalbjytwpprylgeaff
+
+invbeta=6: iqlnlnzislzwyfsnlhmcwfznfczjahsiqfadwwyfsnlhmm
+
+invbeta=7: pxsusugpzsgdfmzusotjdmgumjgqhozpxmhkddfmzusott
+
+invbeta=8: wezbzbnwgznkmtgbzvaqktnbtqnxovgwetorkkmtgbzvaa
+
+invbeta=9: dlgigiudngurtanigchxrauiaxuevcndlavyrrtanigchh
+
+invbeta=10: ksnpnpbkunbyahupnjoeyhbpheblcjukshcfyyahupnjoo
+
+invbeta=11: rzuwuwirbuifhobwuqvlfoiwolisjqbrzojmffhobwuqvv
+
+invbeta=12: ygbdbdpyibpmovidbxcsmvpdvspzqxiygvqtmmovidbxcc
+
+invbeta=13: fnikikwfpiwtvcpkiejztcwkczwgxepfncxattvcpkiejj
+
+invbeta=14: muprprdmwpdacjwrplqgajdrjgdnelwmujehaacjwrplqq
+
+invbeta=15: tbwywyktdwkhjqdywsxnhqkyqnkulsdtbqlohhjqdywsxx
+
+invbeta=16: aidfdfrakdroqxkfdzeuoxrfxurbszkaixsvooqxkfdzee
+
+invbeta=17: hpkmkmyhrkyvxermkglbveymebyizgrhpezcvvxermkgll
+
+invbeta=18: owrtrtfoyrfcelytrnsiclftlifpgnyowlgjccelytrnss
+
+invbeta=19: vdyayamvfymjlsfayuzpjsmaspmwnufvdsnqjjlsfayuzz
+
+invbeta=20: ckfhfhtcmftqszmhfbgwqzthzwtdubmckzuxqqszmhfbgg
+
+invbeta=21: jrmomoajtmaxzgtomindxgaogdakbitjrgbexxzgtominn
+
+invbeta=22: qytvtvhqathegnavtpukenhvnkhripaqynileegnavtpuu
+
+invbeta=23: xfacacoxhaolnuhcawbrluocuroypwhxfupsllnuhcawbb
+
+invbeta=24: emhjhjveohvsubojhdiysbvjbyvfwdoembwzssubojhdii
+
+invbeta=25: ltoqoqclvoczbivqokpfzicqifcmdkvltidgzzbivqokpp
+
+invalfa=9
+invbeta=0: mablbltmkbteoxklbhgiextlxitryhkmaxyneeoxklbhgg
+
+invbeta=1: vjkukucvtkcnxgtukqprngcugrcahqtvjghwnnxgtukqpp
+
+invbeta=2: estdtdlectlwgpcdtzyawpldpaljqzcespqfwwgpcdtzyy
+
+invbeta=3: nbcmcmunlcufpylmcihjfyumyjuszilnbyzoffpylmcihh
+
+invbeta=4: wklvlvdwuldoyhuvlrqsohdvhsdbiruwkhixooyhuvlrqq
+
+invbeta=5: ftueuemfdumxhqdeuazbxqmeqbmkradftqrgxxhqdeuazz
+
+invbeta=6: ocdndnvomdvgqzmndjikgzvnzkvtajmoczapggqzmndjii
+
+invbeta=7: xlmwmwexvmepzivwmsrtpiewitecjsvxlijyppzivwmsrr
+
+invbeta=8: guvfvfngevnyirefvbacyrnfrcnlsbegurshyyirefvbaa
+
+invbeta=9: pdeoeowpnewhranoekjlhawoalwubknpdabqhhranoekjj
+
+invbeta=10: ymnxnxfywnfqajwxntsuqjfxjufdktwymjkzqqajwxntss
+
+invbeta=11: hvwgwgohfwozjsfgwcbdzsogsdomtcfhvstizzjsfgwcbb
+
+invbeta=12: qefpfpxqofxisbopflkmibxpbmxvcloqebcriisbopflkk
+
+invbeta=13: znoyoygzxogrbkxyoutvrkgykvgeluxznklarrbkxyoutt
+
+invbeta=14: iwxhxhpigxpaktghxdceatphtepnudgiwtujaaktghxdcc
+
+invbeta=15: rfgqgqyrpgyjtcpqgmlnjcyqcnywdmprfcdsjjtcpqgmll
+
+invbeta=16: aopzpzhayphsclyzpvuwslhzlwhfmvyaolmbssclyzpvuu
+
+invbeta=17: jxyiyiqjhyqbluhiyedfbuqiufqovehjxuvkbbluhiyedd
+
+invbeta=18: sghrhrzsqhzkudqrhnmokdzrdozxenqsgdetkkudqrhnmm
+
+invbeta=19: bpqaqaibzqitdmzaqwvxtmiamxignwzbpmncttdmzaqwvv
+
+invbeta=20: kyzjzjrkizrcmvijzfegcvrjvgrpwfikyvwlccmvijzfee
+
+invbeta=21: thisisatrialversionpleasepayforthefullversionn
+
+invbeta=22: cqrbrbjcarjuenabrxwyunjbnyjhoxacqnoduuenabrxww
+
+invbeta=23: lzakaksljasdnwjkagfhdwskwhsqxgjlzwxmddnwjkagff
+
+invbeta=24: uijtjtbusjbmwfstjpoqmfbtfqbzgpsuifgvmmwfstjpoo
+
+invbeta=25: drscsckdbskvfobcsyxzvokcozkipybdropevvfobcsyxx
+
+invalfa=11
+invbeta=0: gahzhzdgshdcufszhxqecfdzfedpmxsgafmnccufszhxqq
+
+invbeta=1: rlskskordsonfqdksibpnqokqpoaxidrlqxynnfqdksibb
+
+invbeta=2: cwdvdvzcodzyqbovdtmaybzvbazlitocwbijyyqbovdtmm
+
+invbeta=3: nhogogknzokjbmzgoexljmkgmlkwteznhmtujjbmzgoexx
+
+invbeta=4: yszrzrvykzvumxkrzpiwuxvrxwvhepkysxefuumxkrzpii
+
+invbeta=5: jdkckcgjvkgfxivckathfigcihgspavjdipqffxivckatt
+
+invbeta=6: uovnvnrugvrqitgnvlesqtrntsrdalguotabqqitgnvlee
+
+invbeta=7: fzgygycfrgcbterygwpdbecyedcolwrfzelmbbterygwpp
+
+invbeta=8: qkrjrjnqcrnmepcjrhaompnjponzwhcqkpwxmmepcjrhaa
+
+invbeta=9: bvcucuybncyxpanucslzxayuazykhsnbvahixxpanucsll
+
+invbeta=10: mgnfnfjmynjialyfndwkiljflkjvsdymglstiialyfndww
+
+invbeta=11: xryqyquxjyutlwjqyohvtwuqwvugdojxrwdettlwjqyohh
+
+invbeta=12: icjbjbfiujfewhubjzsgehfbhgfrozuichopeewhubjzss
+
+invbeta=13: tnumumqtfuqphsfmukdrpsqmsrqczkftnszapphsfmukdd
+
+invbeta=14: eyfxfxbeqfbasdqxfvocadbxdcbnkvqeydklaasdqxfvoo
+
+invbeta=15: pjqiqimpbqmldobiqgznlomionmyvgbpjovwlldobiqgzz
+
+invbeta=16: aubtbtxambxwozmtbrkywzxtzyxjgrmauzghwwozmtbrkk
+
+invbeta=17: lfmemeilxmihzkxemcvjhkiekjiurcxlfkrshhzkxemcvv
+
+invbeta=18: wqxpxptwixtskvipxngusvtpvutfcniwqvcdsskvipxngg
+
+invbeta=19: hbiaiaehtiedvgtaiyrfdgeagfeqnythbgnoddvgtaiyrr
+
+invbeta=20: smtltlpsetpogreltjcqorplrqpbyjesmryzoogreltjcc
+
+invbeta=21: dxewewadpeazrcpweunbzcawcbamjupdxcjkzzrcpweunn
+
+invbeta=22: oiphphloaplkcnahpfymknlhnmlxufaoinuvkkcnahpfyy
+
+invbeta=23: ztasaswzlawvnylsaqjxvywsyxwifqlztyfgvvnylsaqjj
+
+invbeta=24: keldldhkwlhgyjwdlbuigjhdjihtqbwkejqrggyjwdlbuu
+
+invbeta=25: vpwowosvhwsrjuhowmftrusoutsebmhvpubcrrjuhowmff
+
+invalfa=15
+invbeta=0: uatbtbxuitxygvibtdkwyvxbvwxlodiuavonyygvibtdkk
+
+invbeta=1: jpiqiqmjximnvkxqiszlnkmqklmadsxjpkdcnnvkxqiszz
+
+invbeta=2: yexfxfbymxbckzmfxhoaczbfzabpshmyezsrcckzmfxhoo
+
+invbeta=3: ntmumuqnbmqrzobumwdproquopqehwbntohgrrzobumwdd
+
+invbeta=4: cibjbjfcqbfgodqjblsegdfjdeftwlqcidwvggodqjblss
+
+invbeta=5: rxqyqyurfquvdsfyqahtvsuystuilafrxslkvvdsfyqahh
+
+invbeta=6: gmfnfnjgufjkshunfpwikhjnhijxapugmhazkkshunfpww
+
+invbeta=7: vbucucyvjuyzhwjcuelxzwycwxympejvbwpozzhwjcuell
+
+invbeta=8: kqjrjrnkyjnowlyrjtamolnrlmnbetykqledoowlyrjtaa
+
+invbeta=9: zfygygcznycdlangyipbdacgabcqtinzfatsddlangyipp
+
+invbeta=10: ounvnvrocnrsapcvnxeqsprvpqrfixcoupihssapcvnxee
+
+invbeta=11: djckckgdrcghperkcmtfhegkefguxmrdjexwhhperkcmtt
+
+invbeta=12: syrzrzvsgrvwetgzrbiuwtvztuvjmbgsytmlwwetgzrbii
+
+invbeta=13: hngogokhvgkltivogqxjlikoijkybqvhniballtivogqxx
+
+invbeta=14: wcvdvdzwkvzaixkdvfmyaxzdxyznqfkwcxqpaaixkdvfmm
+
+invbeta=15: lrksksolzkopxmzskubnpmosmnocfuzlrmfeppxmzskubb
+
+invbeta=16: agzhzhdaozdembohzjqcebdhbcdrujoagbuteembohzjqq
+
+invbeta=17: pvowowspdostbqdwoyfrtqswqrsgjydpvqjittbqdwoyff
+
+invbeta=18: ekdldlhesdhiqfsldnugifhlfghvynsekfyxiiqfsldnuu
+
+invbeta=19: tzsasawthswxfuhascjvxuwauvwknchtzunmxxfuhascjj
+
+invbeta=20: iohphpliwhlmujwphrykmjlpjklzcrwiojcbmmujwphryy
+
+invbeta=21: xdweweaxlwabjylewgnzbyaeyzaorglxdyrqbbjylewgnn
+
+invbeta=22: msltltpmalpqynatlvcoqnptnopdgvamsngfqqynatlvcc
+
+invbeta=23: bhaiaiebpaefncpiakrdfceicdesvkpbhcvuffncpiakrr
+
+invbeta=24: qwpxpxtqeptucrexpzgsurtxrsthkzeqwrkjuucrexpzgg
+
+invbeta=25: flememifteijrgtmeovhjgimghiwzotflgzyjjrgtmeovv
+
+invalfa=17
+invbeta=0: oazpzphoqzhwmdqpztuswdhpdshjctqoadcnwwmdqpztuu
+
+invbeta=1: frqgqgyfhqynduhgqkljnuygujyatkhfrutennduhgqkll
+
+invbeta=2: wihxhxpwyhpeulyxhbcaelpxlaprkbywilkveeulyxhbcc
+
+invbeta=3: nzyoyognpygvlcpoystrvcgocrgibspnzcbmvvlcpoystt
+
+invbeta=4: eqpfpfxegpxmctgfpjkimtxftixzsjgeqtsdmmctgfpjkk
+
+invbeta=5: vhgwgwovxgodtkxwgabzdkowkzoqjaxvhkjuddtkxwgabb
+
+invbeta=6: myxnxnfmoxfukbonxrsqubfnbqfharomybaluukbonxrss
+
+invbeta=7: dpoeoewdfowlbsfeoijhlsweshwyrifdpsrcllbsfeoijj
+
+invbeta=8: ugfvfvnuwfncsjwvfzaycjnvjynpizwugjitccsjwvfzaa
+
+invbeta=9: lxwmwmelnwetjanmwqrptaemapegzqnlxazkttjanmwqrr
+
+invbeta=10: condndvcenvkarednhigkrvdrgvxqhecorqbkkarednhii
+
+invbeta=11: tfeueumtvembrivueyzxbimuixmohyvtfihsbbrivueyzz
+
+invbeta=12: kwvlvldkmvdsizmlvpqoszdlzodfypmkwzyjssizmlvpqq
+
+invbeta=13: bnmcmcubdmujzqdcmghfjqucqfuwpgdbnqpajjzqdcmghh
+
+invbeta=14: sedtdtlsudlaqhutdxywahlthwlngxusehgraaqhutdxyy
+
+invbeta=15: jvukukcjlucrhylkuopnryckyncexoljvyxirrhylkuopp
+
+invbeta=16: amlblbtacltiypcblfgeiptbpetvofcampoziiypcblfgg
+
+invbeta=17: rdcscskrtckzpgtscwxvzgksgvkmfwtrdgfqzzpgtscwxx
+
+invbeta=18: iutjtjbiktbqgxkjtnomqxbjxmbdwnkiuxwhqqgxkjtnoo
+
+invbeta=19: zlkakaszbkshxobakefdhosaodsunebzlonyhhxobakeff
+
+invbeta=20: qcbrbrjqsbjyofsrbvwuyfjrfujlevsqcfepyyofsrbvww
+
+invbeta=21: htsisiahjsapfwjismnlpwaiwlacvmjhtwvgppfwjismnn
+
+invbeta=22: ykjzjzryajrgwnazjdecgnrzncrtmdayknmxggwnazjdee
+
+invbeta=23: pbaqaqipraixnerqauvtxeiqetikdurpbedoxxnerqauvv
+
+invbeta=24: gsrhrhzgirzoevihrlmkovzhvkzbuligsvufooevihrlmm
+
+invbeta=25: xjiyiyqxziqfvmzyicdbfmqymbqslczxjmlwffvmzyicdd
+
+invalfa=19
+invbeta=0: iafdfdriyfruslydfjeoulrdlorhqjyialqnuuslydfjee
+
+invbeta=1: btywywkbryknlerwycxhnekwehkajcrbtejgnnlerwycxx
+
+invbeta=2: umrprpdukrdgexkprvqagxdpxadtcvkumxczggexkprvqq
+
+invbeta=3: nfkikiwndkwzxqdikojtzqwiqtwmvodnfqvszzxqdikojj
+
+invbeta=4: gydbdbpgwdpsqjwbdhcmsjpbjmpfohwgyjolssqjwbdhcc
+
+invbeta=5: zrwuwuizpwiljcpuwavflciucfiyhapzrchelljcpuwavv
+
+invbeta=6: skpnpnbsipbecvinptoyevbnvybratiskvaxeecvinptoo
+
+invbeta=7: ldigigulbiuxvobgimhrxougoruktmbldotqxxvobgimhh
+
+invbeta=8: ewbzbzneubnqohuzbfakqhnzhkndmfuewhmjqqohuzbfaa
+
+invbeta=9: xpususgxnugjhansuytdjagsadgwfynxpafcjjhansuytt
+
+invbeta=10: qinlnlzqgnzcatglnrmwctzltwzpyrgqityvccatglnrmm
+
+invbeta=11: jbgegesjzgsvtmzegkfpvmsempsirkzjbmrovvtmzegkff
+
+invbeta=12: cuzxzxlcszlomfsxzdyioflxfilbkdscufkhoomfsxzdyy
+
+invbeta=13: vnsqsqevlsehfylqswrbhyeqybeudwlvnydahhfylqswrr
+
+invbeta=14: ogljljxoelxayrejlpkuarxjruxnwpeogrwtaayrejlpkk
+
+invbeta=15: hzececqhxeqtrkxceidntkqcknqgpixhzkpmttrkxceidd
+
+invbeta=16: asxvxvjaqxjmkdqvxbwgmdjvdgjzibqasdifmmkdqvxbww
+
+invbeta=17: tlqoqoctjqcfdwjoqupzfwcowzcsbujtlwbyffdwjoqupp
+
+invbeta=18: mejhjhvmcjvywpchjnisypvhpsvluncmepuryywpchjnii
+
+invbeta=19: fxcacaofvcorpivacgblrioailoengvfxinkrrpivacgbb
+
+invbeta=20: yqvtvthyovhkibotvzuekbhtbehxgzoyqbgdkkibotvzuu
+
+invbeta=21: rjomomarhoadbuhmosnxduamuxaqzshrjuzwddbuhmosnn
+
+invbeta=22: kchfhftkahtwunafhlgqwntfnqtjslakcnspwwunafhlgg
+
+invbeta=23: dvayaymdtampngtyaezjpgmygjmcletdvglippngtyaezz
+
+invbeta=24: wotrtrfwmtfigzmrtxscizfrzcfvexmwozebiigzmrtxss
+
+invbeta=25: phmkmkypfmybzsfkmqlvbsyksvyoxqfphsxubbzsfkmqll
+
+invalfa=21
+invbeta=0: calrlrbcglbsytgrlzokstbrtkbfezgcatenssytgrlzoo
+
+invbeta=1: xvgmgmwxbgwntobmgujfnowmofwazubxvozinntobmgujj
+
+invbeta=2: sqbhbhrswbriojwhbpeaijrhjarvupwsqjudiiojwhbpee
+
+invbeta=3: nlwcwcmnrwmdjercwkzvdemcevmqpkrnlepyddjercwkzz
+
+invbeta=4: igrxrxhimrhyezmxrfuqyzhxzqhlkfmigzktyyezmxrfuu
+
+invbeta=5: dbmsmscdhmctzuhsmapltucsulcgfahdbufottzuhsmapp
+
+invbeta=6: ywhnhnxychxoupcnhvkgopxnpgxbavcywpajooupcnhvkk
+
+invbeta=7: trcicistxcsjpkxicqfbjksikbswvqxtrkvejjpkxicqff
+
+invbeta=8: omxdxdnosxnekfsdxlawefndfwnrqlsomfqzeekfsdxlaa
+
+invbeta=9: jhsysyijnsizfanysgvrzaiyarimlgnjhaluzzfanysgvv
+
+invbeta=10: ecntntdeinduavitnbqmuvdtvmdhgbiecvgpuuavitnbqq
+
+invbeta=11: zxioioyzdiypvqdoiwlhpqyoqhycbwdzxqbkppvqdoiwll
+
+invbeta=12: usdjdjtuydtkqlyjdrgckltjlctxwryuslwfkkqlyjdrgg
+
+invbeta=13: pnyeyeoptyoflgteymbxfgoegxosrmtpngrafflgteymbb
+
+invbeta=14: kitztzjkotjagbozthwsabjzbsjnmhokibmvaagbozthww
+
+invbeta=15: fdououefjoevbwjuocrnvweuwneihcjfdwhqvvbwjuocrr
+
+invbeta=16: ayjpjpzaejzqwrepjxmiqrzprizdcxeayrclqqwrepjxmm
+
+invbeta=17: vtekekuvzeulrmzkeshdlmukmduyxszvtmxgllrmzkeshh
+
+invbeta=18: qozfzfpquzpgmhufzncyghpfhyptsnuqohsbggmhufzncc
+
+invbeta=19: ljuauaklpukbhcpauixtbckactkonipljcnwbbhcpauixx
+
+invbeta=20: gepvpvfgkpfwcxkvpdsowxfvxofjidkgexirwwcxkvpdss
+
+invbeta=21: bzkqkqabfkarxsfqkynjrsaqsjaedyfbzsdmrrxsfqkynn
+
+invbeta=22: wuflflvwafvmsnalftiemnvlnevzytawunyhmmsnalftii
+
+invbeta=23: rpagagqrvaqhnivgaodzhiqgizqutovrpitchhnivgaodd
+
+invbeta=24: mkvbvblmqvlcidqbvjyucdlbdulpojqmkdoxccidqbvjyy
+
+invbeta=25: hfqwqwghlqgxdylwqetpxygwypgkjelhfyjsxxdylwqett
+
+invalfa=23
+invbeta=0: warfrflworlqebofrpygqblfbgldspowabsnqqebofrpyy
+
+invbeta=1: txococitloinbylcomvdnyicydiapmltxypknnbylcomvv
+
+invbeta=2: qulzlzfqilfkyvizljsakvfzvafxmjiquvmhkkyvizljss
+
+invbeta=3: nriwiwcnfichvsfwigpxhscwsxcujgfnrsjehhvsfwigpp
+
+invbeta=4: koftftzkcfzespctfdmuepztpuzrgdckopgbeespctfdmm
+
+invbeta=5: hlcqcqwhzcwbpmzqcajrbmwqmrwodazhlmdybbpmzqcajj
+
+invbeta=6: eiznzntewztymjwnzxgoyjtnjotlaxweijavyymjwnzxgg
+
+invbeta=7: bfwkwkqbtwqvjgtkwudlvgqkglqixutbfgxsvvjgtkwudd
+
+invbeta=8: ycththnyqtnsgdqhtraisdnhdinfurqycdupssgdqhtraa
+
+invbeta=9: vzqeqekvnqkpdaneqoxfpakeafkcronvzarmppdaneqoxx
+
+invbeta=10: swnbnbhsknhmaxkbnlucmxhbxchzolkswxojmmaxkbnluu
+
+invbeta=11: ptkykyephkejxuhykirzjueyuzewlihptulgjjxuhykirr
+
+invbeta=12: mqhvhvbmehbgurevhfowgrbvrwbtifemqridggurevhfoo
+
+invbeta=13: jnesesyjbeydrobsecltdoysotyqfcbjnofaddrobsecll
+
+invbeta=14: gkbpbpvgybvaolypbziqalvplqvnczygklcxaaolypbzii
+
+invbeta=15: dhymymsdvysxlivmywfnxisminskzwvdhizuxxlivmywff
+
+invbeta=16: aevjvjpasvpuifsjvtckufpjfkphwtsaefwruuifsjvtcc
+
+invbeta=17: xbsgsgmxpsmrfcpgsqzhrcmgchmetqpxbctorrfcpgsqzz
+
+invbeta=18: uypdpdjumpjoczmdpnweozjdzejbqnmuyzqlooczmdpnww
+
+invbeta=19: rvmamagrjmglzwjamktblwgawbgynkjrvwnillzwjamktt
+
+invbeta=20: osjxjxdogjdiwtgxjhqyitdxtydvkhgostkfiiwtgxjhqq
+
+invbeta=21: lpgugualdgaftqdugenvfqauqvashedlpqhcfftqdugenn
+
+invbeta=22: imdrdrxiadxcqnardbkscnxrnsxpebaimnezccqnardbkk
+
+invbeta=23: fjaoaoufxauznkxoayhpzkuokpumbyxfjkbwzznkxoayhh
+
+invbeta=24: cgxlxlrcuxrwkhulxvemwhrlhmrjyvucghytwwkhulxvee
+
+invbeta=25: zduiuiozruotheriusbjteoiejogvsrzdevqttheriusbb
+
+invalfa=25
+invbeta=0: qaxtxtvqwxvokjwtxficojvtjcvbgfwqajgnookjwtxfii
+
+invbeta=1: pzwswsupvwunjivswehbniusibuafevpzifmnnjivswehh
+
+invbeta=2: oyvrvrtouvtmihurvdgamhtrhatzeduoyhelmmihurvdgg
+
+invbeta=3: nxuquqsntuslhgtqucfzlgsqgzsydctnxgdkllhgtqucff
+
+invbeta=4: mwtptprmstrkgfsptbeykfrpfyrxcbsmwfcjkkgfsptbee
+
+invbeta=5: lvsosoqlrsqjferosadxjeqoexqwbarlvebijjferosadd
+
+invbeta=6: kurnrnpkqrpiedqnrzcwidpndwpvazqkudahiiedqnrzcc
+
+invbeta=7: jtqmqmojpqohdcpmqybvhcomcvouzypjtczghhdcpmqybb
+
+invbeta=8: isplplniopngcbolpxaugbnlbuntyxoisbyfggcbolpxaa
+
+invbeta=9: hrokokmhnomfbankowztfamkatmsxwnhraxeffbankowzz
+
+invbeta=10: gqnjnjlgmnleazmjnvysezljzslrwvmgqzwdeeazmjnvyy
+
+invbeta=11: fpmimikflmkdzylimuxrdykiyrkqvulfpyvcddzylimuxx
+
+invbeta=12: eolhlhjekljcyxkhltwqcxjhxqjputkeoxubccyxkhltww
+
+invbeta=13: dnkgkgidjkibxwjgksvpbwigwpiotsjdnwtabbxwjgksvv
+
+invbeta=14: cmjfjfhcijhawvifjruoavhfvohnsricmvszaawvifjruu
+
+invbeta=15: blieiegbhigzvuheiqtnzugeungmrqhbluryzzvuheiqtt
+
+invbeta=16: akhdhdfaghfyutgdhpsmytfdtmflqpgaktqxyyutgdhpss
+
+invbeta=17: zjgcgcezfgextsfcgorlxsecslekpofzjspwxxtsfcgorr
+
+invbeta=18: yifbfbdyefdwsrebfnqkwrdbrkdjoneyirovwwsrebfnqq
+
+invbeta=19: xheaeacxdecvrqdaempjvqcaqjcinmdxhqnuvvrqdaempp
+
+invbeta=20: wgdzdzbwcdbuqpczdloiupbzpibhmlcwgpmtuuqpczdloo
+
+invbeta=21: vfcycyavbcatpobycknhtoayohaglkbvfolsttpobycknn
+
+invbeta=22: uebxbxzuabzsonaxbjmgsnzxngzfkjauenkrssonaxbjmm
+
+invbeta=23: tdawawytzayrnmzwailfrmywmfyejiztdmjqrrnmzwaill
+
+invbeta=24: sczvzvxsyzxqmlyvzhkeqlxvlexdihysclipqqmlyvzhkk
+
+invbeta=25: rbyuyuwrxywplkxuygjdpkwukdwchgxrbkhopplkxuygjj
+
